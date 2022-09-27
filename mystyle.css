@@ -1,0 +1,203 @@
+body{
+   width: auto;
+   background-color: rgb(98, 228, 245);
+}
+header{
+    padding: 10px 10px 50px 10px;
+    background-color: rgb(22, 14, 14);
+}
+nav{
+   
+nav-right: auto;
+}
+.myNav{
+    text-align: right;
+   margin-top: -20px;
+}
+.icon{
+  margin: 50px;
+   
+}
+.icon img{
+   margin-top: 50px;
+}
+.myNav a{
+    margin-right: 50px;
+   padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(12 223 194);
+   border-radius: 10px;
+   text-align: center;
+   text-decoration: none;
+}
+.myNav a{
+    margin-top: -8px; 
+
+}
+.myNav a:hover{
+background-color: blue;
+}
+.sec1 .div9 .div1{
+    width:100%;
+    height:300px;
+}
+.div9{
+    float:left;
+    width: 50%;
+    height:300px;
+    background-color: rgb(98, 228, 245);
+}
+.div1{
+    float:right;
+    width: 50%;
+    height:300px;
+    background-color: rgb(98, 228, 245);
+}
+.div9 img{
+    float:right;
+    border-radius: 50%;
+}
+.div1 {
+    text-align: left;
+    
+}
+.div1 h2{
+    margin-left: 10px;
+    margin-top: 100px;
+}
+
+/*
+.sec1 .div1{
+    height: 300px;
+    width:100%;
+    background-color: aqua;
+}
+/*
+.sec1 img{
+  margin-left: 20%;
+  
+}/*
+.div1 h2{
+ padding-top: 8%;
+padding-left:50%;
+
+}
+.div9{
+
+}*/
+.div1 button{ 
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(66, 142, 172);
+    border-radius: 8px; 
+    margin-left: 10px;
+    
+}
+.div1 button:hover{
+    background-color:  rgb(15, 218, 140);
+}/*
+.sec1 img{
+   float: left;
+   border-radius: 70%;
+}*/
+.sec2{
+    height: 200px;
+    text-align: center;
+   margin: auto;
+}
+.div3{
+    background-color: rgb(15, 218, 140);
+}
+.div3 a{
+    padding-left: 47.5%;
+}
+.div3 h2{
+    text-align: center;
+}
+.div4 h2{
+    text-align: center;
+    
+}
+.sec3{
+    background-color: rgb(15, 218, 140);
+
+}
+.div5 button{
+    text-align: center;
+  padding: 20px;
+  margin-left:2.5%;
+  margin-top: 2%;
+  background-color: rgb(54, 154, 179);
+  width:30%;
+}
+.div6 button{
+  text-align: center;
+  padding: 20px;
+  margin-left: 35.3%;
+  margin-top: 2%;
+  width:30%;
+  
+  background-color: rgb(54, 154, 179);
+}
+.sec4{
+    background-color: black;
+}
+
+
+footer .div7 .div8{
+    width:100%;
+  
+}   
+footer .div7{
+    width:50%;
+    height: 150px;
+    margin-top: 10px;
+   background-color: rgb(65, 52, 52);
+   text-decoration-color: rgb(246, 250, 250);
+   color: White;
+    float:left;
+    text-align: center;
+    
+}
+footer .div8{
+    width:50%;
+    height: 150px;
+    margin-top: 10px;
+    float: right;
+    text-align: center;
+    background-color: rgb(65, 52, 52);
+    color: white;
+}
+.div7 a{
+   text-decoration:underline;
+   color: blue; 
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+.fa:hover {
+   font-size: large;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }    
